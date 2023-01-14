@@ -16,3 +16,5 @@ class Solution {
         return arr;
     }
 }
+
+// accepted solution, but can be much more efficient
